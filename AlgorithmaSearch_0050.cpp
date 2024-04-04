@@ -73,4 +73,6 @@ void display()
 int main()
 {
 	Input();
+	LinearSearch();
+
 }
